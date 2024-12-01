@@ -1,0 +1,6 @@
+move three steps right
+move two steps down
+move one step left
+move two step down
+move one step right
+move one step down
