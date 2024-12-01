@@ -25,7 +25,7 @@
 using namespace std;
 int main(){
     int regularSold, vipSold, totalfund;
-sh    cout << "Number of Regular Tickets Sold : ";
+    cout << "Number of Regular Tickets Sold : ";
     cin >> regularSold;
     cout << "Number of VIP Tickets Sold : ";
     cin >> vipSold;
